@@ -1,0 +1,36 @@
+# Student-info
+student_name="sanjana"
+age=20
+height=157.48
+result=None
+a=50
+b=50.0
+c="50"
+a=True
+b=True
+a=None
+b=None
+value=22
+print(type(value))
+value="23"
+print(type(value))
+product_name="loreal paris"
+product_quantity=1000
+product_price=999.50
+product_availability=True
+product_discount=None
+print(type(product_name))
+print(type(product_quantity))
+print(type(product_price))
+print(type(product_availability))
+print(type(product_discount))
+a=10
+b="10" 
+c=10.0
+d=True
+e=None
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
